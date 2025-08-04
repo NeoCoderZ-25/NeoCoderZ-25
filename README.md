@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+<h2>🧠 About Me </h2>
 ```diff
 + 🚀 Full Stack Developer in progress
 + 🤖 Exploring Machine Learning, Python & JS
@@ -23,7 +23,7 @@
 💻 IDE: SPCK Editor (Android) + GitHub Mobile
 ⚙️ Code: HTML, CSS, JavaScript, Python
 🎨 Design: Gradient UI, Dark Mode First
-📦 Version Control: Git & GitHub (obviously!)
+📦 Version Control: Git & GitHub
 
 
 ---
@@ -59,25 +59,25 @@
 
 🔥 Recent Projects
 
-🚧 NeoWeather: Simple JS weather app (SPCK)
+🚧 NeoWeather: JavaScript weather app built using open API
 
-⚡ CodeSparks: Stylish HTML/CSS front-end template
+⚡ CodeSparks: Stylish front-end HTML/CSS template
 
-🧠 PyML-Start: ML basics in Python (in progress)
+🧠 PyML-Start: Machine Learning basics in Python (WIP)
 
 
 
 ---
 
-🎯 Goals for 2025
+🎯 2025 Goals
 
-✅ Master front-end + responsive design
+✅ Master responsive design
 
-✅ Build real-world full stack apps
+✅ Launch full-stack mini app
 
-⏳ Publish first Python ML mini project
+⏳ Publish Python ML project
 
-⏳ Launch a portfolio website
+⏳ Deploy a personal portfolio site
 
 
 
@@ -93,3 +93,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=footer&text=⚡%20Thanks%20for%20visiting!%20⚡&fontSize=20&animation=twinkling" />
 </p>
+```
