@@ -1,7 +1,7 @@
 <h1 align="center">⚡ NeoCoderZ-25</h1>
 
 <p align="center">
-  <img src="https://github.com/NeoCoderZ-25/NeoCoderZ-25/assets/YOUR_IMAGE_ID/neocoderz-logo.png" width="160" alt="NeoCoderZ Logo"/>
+  <img src="file_0000000024fc622f8e287ff3f418fc2d.png" width="160" alt="NeoCoderZ Logo"/>
 </p>
 
 <p align="center">
